@@ -1,0 +1,9 @@
+#main {
+    background: url(../img/menus-bg.jpg);
+    background-size: 100%;
+}
+#body_content {
+    width: 80%;
+    margin: 0 auto;
+    
+}
